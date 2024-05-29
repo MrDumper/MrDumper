@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDumper
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, c++
+- 🌱 I’m currently learning python, c++, c#
 
 
 <!---
